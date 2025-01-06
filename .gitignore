@@ -12,5 +12,5 @@ env
 # hidden folders
 eteroa/admin-page.py
 eteroa/admin-pageV1.py
-eteroa/RUR_Population.ipynb
+eteroa\RUR_Population.ipynb
 eteroa/.streamlit
