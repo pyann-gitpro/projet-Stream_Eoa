@@ -8,3 +8,17 @@ env
 ########
 # trash
 .trash
+
+# hidden folders
+eteroa/admin-page.py
+eteroa/admin-pageV1.py
+eteroa/RUR_Population.ipynb
+eteroa/.streamlit
+
+# folders hide
+eteroa/rurutu-data/pix-logo
+eteroa/rurutu-data/archive
+eteroa/rurutu-data/points.csv
+
+# hidden folders
+eteroa/public/assets/archive
